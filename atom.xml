@@ -5,9 +5,9 @@
   <subtitle>Holmesisme&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://holmesisme.github.io/"/>
+  <link href="https://holmesisme.github.io/"/>
   <updated>2019-08-23T07:24:40.184Z</updated>
-  <id>http://holmesisme.github.io/</id>
+  <id>https://holmesisme.github.io/</id>
   
   <author>
     <name>[object Object]</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>spring独立应用程序获取bean</title>
-    <link href="http://holmesisme.github.io/2019/08/23/spring%E7%8B%AC%E7%AB%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%8E%B7%E5%8F%96bean/"/>
-    <id>http://holmesisme.github.io/2019/08/23/spring独立应用程序获取bean/</id>
+    <link href="https://holmesisme.github.io/2019/08/23/spring%E7%8B%AC%E7%AB%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%8E%B7%E5%8F%96bean/"/>
+    <id>https://holmesisme.github.io/2019/08/23/spring独立应用程序获取bean/</id>
     <published>2019-08-23T06:27:58.000Z</published>
     <updated>2019-08-23T07:24:40.184Z</updated>
     
@@ -35,21 +35,21 @@
     
     </summary>
     
-      <category term="日常学习" scheme="http://holmesisme.github.io/categories/%E6%97%A5%E5%B8%B8%E5%AD%A6%E4%B9%A0/"/>
+      <category term="日常学习" scheme="https://holmesisme.github.io/categories/%E6%97%A5%E5%B8%B8%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="spring" scheme="http://holmesisme.github.io/tags/spring/"/>
+      <category term="spring" scheme="https://holmesisme.github.io/tags/spring/"/>
     
-      <category term="独立应用程序" scheme="http://holmesisme.github.io/tags/%E7%8B%AC%E7%AB%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
+      <category term="独立应用程序" scheme="https://holmesisme.github.io/tags/%E7%8B%AC%E7%AB%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F/"/>
     
-      <category term="bean" scheme="http://holmesisme.github.io/tags/bean/"/>
+      <category term="bean" scheme="https://holmesisme.github.io/tags/bean/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://holmesisme.github.io/2019/08/23/hello-world/"/>
-    <id>http://holmesisme.github.io/2019/08/23/hello-world/</id>
+    <link href="https://holmesisme.github.io/2019/08/23/hello-world/"/>
+    <id>https://holmesisme.github.io/2019/08/23/hello-world/</id>
     <published>2019-08-23T06:23:00.000Z</published>
     <updated>2019-08-23T06:23:14.185Z</updated>
     
